@@ -15,8 +15,11 @@ Additionally, I wanted to make this tool available online so that others can use
 **🛠️ Technologies Used**
 
 HTML
+
 CSS
+
 JavaScript
+
 
 **⚙️ Development Process**
 
