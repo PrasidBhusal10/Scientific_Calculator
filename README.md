@@ -58,3 +58,12 @@ cd Scientific_Calculator
 - Open it in any web browser (Chrome, Edge, etc.)
 
 4. **Start using the calculator 🎉**
+
+
+**🎥Video**
+
+
+
+https://github.com/user-attachments/assets/6142bc47-0ab6-40e5-90a8-51427dd151d1
+
+
